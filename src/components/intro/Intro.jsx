@@ -10,19 +10,19 @@ const Intro = () => {
           <h1 className="i-name">Sbonga Mabaso</h1>
           <div className="i-title">
             <div className="i-title-wrapper">
-              <div className="i-title-item">Web Developer</div>
               <div className="i-title-item">Computer Engineer</div>
-              <div className="i-title-item">Machine Learning Engineer</div>
+              <div className="i-title-item">AI Engineer</div>
+              <div className="i-title-item">ML Engineer</div>
               <div className="i-title-item">Data Scientist</div>
-              <div className="i-title-item">Freelancer</div>
+              <div className="i-title-item">Data Analyst</div>
             </div>
           </div>
           <p className="i-desc">
-            I design and develop personal and/or business websites for customers,
-            I specialize in creating blogging websites, portfolio websites, company websites and
-            online stores.
-            I am available for a fulltime job, frontend web developer, python developer, machine learning engineer
-            and data science or data analytic position
+            I design and develop personal and/or business Project for customers.
+            My passion lies with research and implementation of artificial intelligence, machine learning and
+            deep learning.
+            I am available for a fulltime or part time job as a python developer, machine learning engineer
+            and data science or data analytics position.
           </p>
         </div>
         <svg

@@ -23,8 +23,8 @@ const About = () => {
         </p>
         <p className="a-desc">
           I'm a computer engineer by profession. There are many fields in computer engineering, 
-          therefore, my field of interest is web development, Machine Learning and AI, and IoT.
-          I'm co-founder of a startup company <a href="ownculture.africa">ownculture</a> founded in 2021.
+          however, my field of interest is Artificial Intelligence, Machine Learning, Deep Learning, and IoT.
+          Please visit my github repository <a href="github.com/SbongaMabaso">SbongaMabaso</a> to find project I have worked on.
         </p>
         <div className="a-award">
           <img src={Award} alt="" className="a-award-img" />

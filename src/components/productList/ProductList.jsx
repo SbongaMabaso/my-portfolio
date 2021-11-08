@@ -6,10 +6,10 @@ const ProductList = () => {
   return (
     <div className="pl">
       <div className="pl-texts">
-        <h1 className="pl-title">My favourite tech stack.</h1>
+        <h1 className="pl-title">Completed Tasks</h1>
         <p className="pl-desc">
-          The most tech stack that I like to use.
-          ReactJS, NodeJS, Python, Firebase, MangoDB, MyQSL.
+          The following project has been completed with python programming language.
+          Most popular AI frameworks that I have worked with are TensorFlow, Pytorch, Keras, and OpenCV.
         </p>
       </div>
       <div className="pl-list">
