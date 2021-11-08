@@ -24,7 +24,7 @@ const About = () => {
         <p className="a-desc">
           I'm a computer engineer by profession. There are many fields in computer engineering, 
           however, my field of interest is Artificial Intelligence, Machine Learning, Deep Learning, and IoT.
-          Please visit my github repository <a href="https://github.com/SbongaMabaso">SbongaMabaso</a> to find project I have worked on.
+          Please visit my github repository <a href="https://github.com/SbongaMabaso/">SbongaMabaso</a> to find project I have worked on.
         </p>
         <div className="a-award">
           <img src={Award} alt="" className="a-award-img" />
