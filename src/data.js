@@ -1,18 +1,18 @@
 export const products = [
   {
     id: 1,
-    img: "",
-    link: "#",
+    img: "./semo.png",
+    link: "https://semo-solution.vercel.app/",
   },
   {
     id: 2,
-    img: "",
-    link: "#",
+    img: "./researchboard.png",
+    link: "https://researchboard.netlify.app/",
   },
   {
     id: 3,
-    img: "",
-    link: "#",
+    img: "./sneaker-sa.png",
+    link: "https://sneaker-sa.netlify.app/",
   },
   {
     id: 4,
