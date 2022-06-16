@@ -22,9 +22,12 @@ const About = () => {
           - Thomas Edison
         </p>
         <p className="a-desc">
-          I'm a computer engineer by profession. There are many fields in computer engineering, 
-          however, my field of interests are Software Engineering, Software Development, Data Science, and IoT.
-          Please visit my github repository <a href="https://github.com/SbongaMabaso/">SbongaMabaso</a> to find project I have worked on.
+          Full Stack Software Dev Engineer with background knowledge of C#, .NET Core, Entity Framework and SQL Server.
+          React and Angular JavaScript framework. Proficient with hardware projects such as IoT and Embedded Systems.
+          Strong professional with a BSc willing to be an asset for an organization.
+          Please visit my github repository <a href="https://github.com/SbongaMabaso/">SbongaMabaso</a> to explore some of my projects.
+          <br />
+          I also write blogs about different topic in programming, visit <a href="https://semoblog.great-site.net">semoblog</a> for more. 
         </p>
         <div className="a-award">
           <img src={Award} alt="" className="a-award-img" />
