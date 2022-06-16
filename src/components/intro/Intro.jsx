@@ -12,15 +12,15 @@ const Intro = () => {
             <div className="i-title-wrapper">
               <div className="i-title-item">Computer Engineer</div>
               <div className="i-title-item">Software Engineer</div>
-              <div className="i-title-item">Web App Developer</div>
-              <div className="i-title-item">Mobile App Developer</div>
-              <div className="i-title-item">IoT Engineer</div>
+              <div className="i-title-item">Software Developer</div>
+              <div className="i-title-item">RPA Engineer</div>
+              <div className="i-title-item">Data Scientist</div>
             </div>
           </div>
           <p className="i-desc">
-            I design and develop web and mobile development applications. I do freelance task for business or school projets.
-            I am a passionate computer engineer, who is enthusiast about software development and engineering.
-            I am available for a fulltime or part time job to work as a software engineer, software developer, and IoT
+            I am a Computer Engineer by profession. I graduated with a BSc Computer Engineeing degree at <a href="http://www.ukzn.ac.za/">UKZN</a>.
+            I work as a Software Engineer in a dymanic company located in Durban Umhlanga Ridge. On the side, I do freelance on website design,
+            and development. Please visit the contact me page to contact me about your project, or collaboration.
           </p>
         </div>
         <svg
